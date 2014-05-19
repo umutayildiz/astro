@@ -1,4 +1,7 @@
 #! /usr/bin python
+# Umut.Yildiz@jpl.nasa.gov
+
+
 import os, sys
 from pylab import *
 import scipy
